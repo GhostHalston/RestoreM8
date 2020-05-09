@@ -8,15 +8,15 @@ All iPhones with the A7-A11 Prescessor
 
 All iPads with the A7-A11 Processor
 
-# Future Plans:
-
-I would like to have FutureRestore-Script Built in to the app later down the road.
-
 # NOTE!
 
 This will restore your device all you your data will be wiped!
 
 Make sure the SEP and Baseband are compatible.
+
+# Future Plans:
+
+I would like to have FutureRestore-Script Built in to the app later down the road.
 
 # Important Info
 
