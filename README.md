@@ -20,7 +20,7 @@ I would like to have FutureRestore-Script Built in to the app later down the roa
 
 # Important Info
 
-If you want to restore without setting your nonce with halo michael's repo you can use uncover since it does the same thing.
+If you want to restore without setting your nonce with halo michael's tool you can use unc0ver since it does the same thing.
 
 # Credits
 
