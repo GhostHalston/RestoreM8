@@ -4,7 +4,12 @@
  
 # Supported Devices:
 
-All iPhones with the A7-A11 Prescessor (iPhone 5s - X)
+All iPhones with the A7-A11 Prescessor
 
 All iPads with the A7-A11 Processor
+
+# Future Plans:
+
+I would like to have FutureRestore-Script Built in to the app later down the road.
+
 
