@@ -21,3 +21,9 @@ Make sure the SEP and Baseband are compatible.
 # Important Info
 
 If you want to restore without setting your nonce with halo michael's repo you can use uncover since it does the same thing.
+
+# Credits
+
+App by 80036nd
+
+Generator Auto Setter by @halo_michael
